@@ -11,7 +11,7 @@ Choose a crop and use sliders to adjust farm area and time period
 
 ## Contributors
 
-### [Josh Pham](https://github.com/JoshPham)
+### [Josh Pham](https://github.com/Nqchoz)
 - Researched crop stages and developed the calculations component of project
 ### [Lenya Nagasaki](https://github.com/lenyanagasaki/)
 - Helped with interface design and assets
